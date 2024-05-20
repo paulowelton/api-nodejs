@@ -1,2 +1,2 @@
 # api-nodejs
-api para projeto de e-commerce que esta sendo desenolvido
+api para projeto de e-commerce que esta sendo desenvolvido
